@@ -46,8 +46,15 @@ footer {
     background-color: rgba(33,37,41);
     position: fixed;
     bottom:0;
+    padding: 0.3%;
 }
-
+#nome-footer {
+    color: white;
+    margin-left: 75%;
+}
+#topo {
+    display: inline;
+}
 
 
 
